@@ -6,6 +6,3 @@
 
  I ran it on linux with:
  ```nvcc -arch native caboose.cu --run```
-
- This probably will not work with any host compiler other than GCC.
- Might take a little fooling around to get it to run, especially on Windows.
